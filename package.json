@@ -1,0 +1,12 @@
+{
+	"name": "web-tooling-001",
+	"version": "1.0.0",
+	"description": "first webtooling assignment",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node ./index.js"
+	},
+	"author": "",
+	"license": "ISC"
+}
